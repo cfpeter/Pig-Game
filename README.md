@@ -13,4 +13,4 @@
 
                     
 
-![alt text](https://raw.githubusercontent.com/cfpeter/Pig-Game/img1.png)
+![alt text](https://github.com/cfpeter/Pig-Game/img1.png)
