@@ -21,7 +21,7 @@ document.querySelector('.btn-roll').addEventListener('click', function(){
     document.querySelector('.dice').style.display = 'block';
 
     // 2. Show the result
-    var diceImg = 'dice-' + dice + '.png';
+    var diceImg = 'img/dice-' + dice + '.png';
     var diceDom = document.querySelector('.dice');
     diceDom.src = diceImg;
 
