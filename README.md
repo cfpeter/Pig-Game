@@ -17,4 +17,6 @@
 
 ![alt text](/img2.png)
 
+Here i made it the winning score to 50 and the current score is 12 + 47 which in this case is more than 50 so player 1 won the game
+
 ![alt text](/img3.png)
