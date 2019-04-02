@@ -17,6 +17,6 @@
 
 ![alt text](/img2.png)
 
-Here i made it the winning score to 50 and the current score is 12 + 47 which in this case is more than 50 so player 1 won the game
+Here player 2 is playing; i made the winning score to 50 and the current score is 12 + 47 which in this case is more than 50 so player 2 won the game as you see the alert;
 
 ![alt text](/img3.png)
